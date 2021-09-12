@@ -1,0 +1,14 @@
+{
+    "owner" : "766242519817912340",
+    "mongo" :  "mongodb+srv://mish:mish02071@cluster0.znat2.mongodb.net/test",
+    "token": "",
+    "hostedBy": true,
+    "loggerChannelID": "857910268806168576",
+    "prefix": "u!",
+    "GOOGLE_KEY": "AIzaSyD1sPEOHCWH3lZcxhyxg6L2JUrjpkFbhCQ",
+    "voiceLogChannel": "858010767907225601",
+    "admins": ["766242519817912340"],
+    "colors": {
+        "yes" : "#ddcc33",
+        "no"  : "#ff4d4d"}
+}
